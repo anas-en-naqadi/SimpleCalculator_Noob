@@ -1,0 +1,75 @@
+form{
+    margin-top:40px;
+    width:270px;
+    height: 410px;
+    border: 1px solid black;
+    border-radius: 4px;
+    border-color: white;
+    background-color: white;
+    box-shadow: 1px 0px 8px -1px  black;
+}
+h1{
+    margin-top: 90px;
+    font-family: tahoma;
+}
+button:hover{
+    background-color: brown;
+    color: black;
+    opacity: 80%;
+}
+.up{
+background-color: orange;
+}
+.up button{
+    border: none;
+    width: 133px;
+    height: 40px;
+    color: black;
+    background-color: orange;
+    margin:0;
+    border-radius: 4px;
+}
+.result{
+    font-size: 50px;
+    color: black;
+    background-color: red;
+    height: 100px;
+    padding-top: 11px;
+    border-top-left-radius: 4px;
+   
+ 
+   border-top-right-radius: 4px;
+   text-align: center;
+}
+body{
+    background-color: bisque;
+}
+button{
+    border-radius: 30px;
+    border: none;
+    height: 50px;
+    width: 50px;
+    font-weight: bold;
+    font-size: 20px;
+    margin: 5px;
+    color: gray;
+    cursor: pointer;
+}
+#result{
+   text-align: left;
+    margin-left: 10px;
+    border: none;
+padding-top: 15px;
+    padding-left: 5px;
+    border-radius: 4px;
+    font-size: 25px;
+    width:245px;
+    background-color: white;
+    height: 72px;
+}
+.buttons{
+    margin-top: 10px;
+}
+#equal{
+background-color: red;
+}
